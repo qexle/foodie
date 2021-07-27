@@ -1,5 +1,5 @@
 # foodey
-Bakery Dashboard UI
+Bakery Dashboard
 
 [![.NET CI](https://github.com/shikharvashistha/foodey/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/shikharvashistha/foodey/actions/workflows/dotnet.yml)
 
