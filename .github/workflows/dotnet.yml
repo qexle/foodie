@@ -5,6 +5,10 @@
   pull_request:
     branches:
       - main
+  paths:
+    - '**.cs'
+    - '**.csproj'
+    
 name: dotnet
 jobs:
   build:
