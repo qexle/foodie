@@ -5,16 +5,18 @@
   pull_request:
     branches:
       - main
-  paths:
-    - '**.cs'
-    - '**.csproj'
-    
+    paths:
+      - '**.cs'
+      - '**.csproj'
 name: dotnet
 jobs:
   build:
     strategy:
       matrix:
-        dotnet-version: [ '2.1.x', '3.1.x', '5.0.x' ]
+        dotnet-version:
+          - 2.1.x
+          - 3.1.x
+          - 5.0.x
         platform:
           - ubuntu-latest
           - macos-latest
