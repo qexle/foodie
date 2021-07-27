@@ -9,4 +9,4 @@ Screenshots:
 - ![FIRST](asserts/first.png)
 
 
- ![SECOND](asserts/second.png)
+- ![SECOND](asserts/second.png)
